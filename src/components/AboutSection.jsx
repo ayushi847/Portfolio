@@ -36,7 +36,7 @@ I’m driven by a strong passion for learning and creating impactful digital exp
               </a>
 
               <a
-                href="https://raw.githubusercontent.com/ayushi847/resume/main/ayushi%20intern%20resume.pdf
+                href="https://github.com/ayushi847/resume/blob/8fe532be067477ac0ef505c7b0d830fe2686268e/ayushi.final.resume.pdf
 "
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
